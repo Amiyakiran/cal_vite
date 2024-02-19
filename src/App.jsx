@@ -72,6 +72,7 @@ function App() {
 
   const handleReset = ()=>{
     setPrinciple(0)
+    setInterest(0)
     setRate(0)
     setYear(0)
     setIsPrinciple(true)
